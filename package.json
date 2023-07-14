@@ -1,6 +1,4 @@
 {
-  "homepage": "https://kundank02.github.io/Restaurant_LandingPage",
-  "name": "restaurant",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
